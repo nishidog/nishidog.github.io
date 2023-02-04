@@ -1,8 +1,8 @@
 ## Welcome to this Pages
 
-You can use the [Guide page](https://nishi.dog) to Get the latest url.
+You can use the [Guide page](https://x.yzxyz.xyz) to Get the latest url.
 
-Whenever you commit to this repository, the Pages will run [NEW](https://nishi.dog/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, the Pages will run [NEW](https://x.yzxyz.xyz) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -28,4 +28,4 @@ Syntax highlighted code block
 ### Jekyll Themes
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://nishi.dog) or [contact support](https://www.cowacg.com) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://x.yzxyz.xyz) or [contact support](https://x.yzxyz.xyz) and we’ll help you sort it out.
